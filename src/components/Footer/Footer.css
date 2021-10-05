@@ -1,0 +1,26 @@
+/* footer style */
+.footer{
+    margin-top: 60px;
+    background-color: slategray;
+    text-align: center;
+}
+.footer-name{
+    color:white;
+    padding-top: 30px;
+    
+}
+.icon{
+    color:lightcyan;
+    font-size: 30px;
+    border-radius: 50px;
+    margin-right: 20px ;
+    transition: transform 1s;
+}
+.icon:hover{
+    color: springgreen;
+    
+    transform: scale(1.3);
+}
+span{
+    color:springgreen;
+}

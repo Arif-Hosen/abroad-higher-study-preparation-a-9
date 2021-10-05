@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "SOP writing",
+        "price": 50,
+        "img": "https://collegepond.com/wp-content/uploads/2019/01/2019-10-04-1.png"
+    },
+    {
+        "id": 2,
+        "name": "IELTS",
+        "price": 80,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW-6IpuVvLM6V2Vrt0dcFMB0PRx70LBWg3DQ&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "name": "GRE",
+        "price": 100,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSuX1lLYY3WlN82uo6MwiJosdhclpxFUjRyQ&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "name": "CV writing",
+        "price": 50,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc536LtAP3LQMU0vnkKkie2D5LGtQIvdKuUQ&usqp=CAU"
+    }
+]

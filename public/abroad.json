@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "USA",
+        "title": "Higher education in the United States is an optional stage of formal learning following secondary education. Higher education is also referred as post-secondary education, third-stage, third-level, or tertiary education. It covers stages 5 to 8 on the International ISCED 2011 scale",
+        "img": "https://img.freepik.com/free-photo/flag-united-states-america_1401-253.jpg?size=338&ext=jpg"
+    },
+    {
+        "id": 2,
+        "name": "Australia",
+        "title": "Australia has long been an extremely desirable location for students looking to study abroad. As well as being a popular holiday destination for millions of tourists, Australia also has a huge amount to offer prospective students academically, culturally and socially. ",
+        "img": "https://image.freepik.com/free-photo/flag-australia_1401-59.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Germany",
+        "title": "Germany has many different kinds of universities, all of which offer excellent quality. But with so many to choose from, it’s not always easy to navigate your way through the university landscape. We are here to help.",
+        "img": "https://image.freepik.com/free-photo/flag-germany_1401-118.jpg"
+    },
+    {
+        "id": 4,
+        "name": "France",
+        "title": "To put it simply, the French higher education system is one of the best in the world. It is also one of the most accessible ones. With low tuition fees, studying in France is more economical for international students. French universities are near the top of renowned university rankings each year.",
+        "img": "https://image.freepik.com/free-photo/flag-france_1401-114.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Canada",
+        "title": "Canada has a well-established position among the world’s leading study destinations. The most popular Canadian provinces for international students are Ontario, British Columbia and Quebec, which between them are home to many of the top universities in Canada.",
+        "img": "https://image.freepik.com/free-photo/flag-canada_1401-84.jpg"
+    },
+    {
+        "id": 6,
+        "name": "UK",
+        "title": "British higher education providers are recognised internationally for their creative and challenging environments, that help push students to be their best. Their standards are highly regarded, with experts on many academic topics, and they're generally high in internationally university rankings.",
+        "img": "https://image.freepik.com/free-photo/flag-united-kingdom_1401-252.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Norway",
+        "title": "Norway is the country that takes higher education to a unique international level. Most of the Norwegian public universities don’t charge any tuition fees. This applies to all international students, regardless of their country of origin.",
+        "img": "https://image.freepik.com/free-photo/old-norwegian-flag_1160-911.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Japan",
+        "title": "Japan is a country of contrasts, preserving old traditions related to the unique Japanese culture, like the Buddhist heritage, and, at the same time, the nation is a leader in scientific research, mostly technology, famous for manufacturing robots.",
+        "img": "https://image.freepik.com/free-photo/flag-japan_1401-141.jpg"
+    }
+]

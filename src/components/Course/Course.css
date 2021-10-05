@@ -1,0 +1,19 @@
+/* home page course card style */
+.cart-container{
+    height: 300px;
+    margin: 20px;
+    border: 2px solid lightgrey;
+    box-shadow: 10px 10px 5px gray;
+    transition: transform 1s;
+    
+}
+.cart-container:hover{
+    border: 2px solid limegreen;
+    transform: scale(1.05);
+}
+
+.cart-container img{
+    height: 280px;
+    /* border: 1px solid lightgrey;
+    border-radius: 15px; */
+}
